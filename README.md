@@ -79,7 +79,7 @@ These projects reflect my hands-on experience with data science, machine learnin
 ---
 
 ### Contact
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/geo-m-benny-901935221).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/geo-m-benny-901935221).
 
 ---
 
